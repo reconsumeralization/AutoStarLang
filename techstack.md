@@ -86,7 +86,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [reconsumeralization/AutoStarLang](https://github.com/reconsumeralization/AutoStarLang)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|97<br/>Tools used|12/14/23 <br/>Report generated|
+|100<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -469,9 +469,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (54)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (57)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (30)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (33)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -488,13 +488,16 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.59.0|05/09/23|awtkns |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.59.1|05/09/23|awtkns |BSD-2-Clause|N/A|
 |[@vercel/analytics](https://www.npmjs.com/@vercel/analytics)|v1.0.1|05/09/23|awtkns |N/A|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|05/29/23|awtkns |MIT|N/A|
 |[clear](https://www.npmjs.com/clear)|v0.1.0|05/27/23|Palmer Duckworth |MIT|N/A|
 |[clui](https://www.npmjs.com/clui)|v0.3.6|05/27/23|Palmer Duckworth |MIT|N/A|
 |[configstore](https://www.npmjs.com/configstore)|v6.0.0|05/27/23|Palmer Duckworth |BSD-2-Clause|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|05/09/23|awtkns |MIT|N/A|
 |[figlet](https://www.npmjs.com/figlet)|v1.6.0|05/27/23|Palmer Duckworth |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|05/09/23|awtkns |MIT|N/A|
 |[inquirer](https://www.npmjs.com/inquirer)|v9.2.6|05/27/23|Palmer Duckworth |MIT|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.5.0|05/09/23|awtkns |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.2.1|05/09/23|awtkns |MIT|N/A|
 |[minimist](https://www.npmjs.com/minimist)|v1.2.8|05/27/23|Palmer Duckworth |MIT|N/A|
 |[next-auth](https://www.npmjs.com/next-auth)|v4.20.1|05/09/23|awtkns |N/A|[CVE-2023-48309](https://github.com/advisories/GHSA-v64w-49xw-qq89) (Moderate)|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|05/10/23|Asim Shrestha |MIT|N/A|
